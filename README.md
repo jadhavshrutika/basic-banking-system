@@ -1,3 +1,5 @@
+![customers](https://user-images.githubusercontent.com/76395631/122740568-ba2cd500-d2a1-11eb-813e-0ed7d056af53.png)
+![history](https://user-images.githubusercontent.com/76395631/122740580-bd27c580-d2a1-11eb-9868-61708d2740d3.png)
 # Basic-Banking-System
 Introduction
 The Sparks Foundation Internship Project - Basic Banking System
